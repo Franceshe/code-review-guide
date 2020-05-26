@@ -15,7 +15,7 @@ team collaboration project.
 
 ## Scala for Spark
 
-## Javascri[t/Typescript
+## Javascript/Typescript
 
 ## Git
 * [Pro Git Book by by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
