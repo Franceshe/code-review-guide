@@ -5,6 +5,9 @@ In large code base, most code is purposed to be read than written.
 The following are a summary of reference for code review in our
 team collaboration project. 
 
+## General
+[General Code review guide by Google](https://google.github.io/eng-practices/review/reviewer/)
+
 ## Python
 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/
 )
