@@ -20,3 +20,7 @@ team collaboration project.
 ## Git
 * [Pro Git Book by by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 * [How to write clear Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+
+## How to ask question in a smart way
+Save you and your teammates time:
+*[How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
