@@ -12,6 +12,8 @@ team collaboration project.
 
 ## Scala for Spark
 
+## Javascri[t/Typescript
+
 ## Git
 * [Pro Git Book by by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 * [How to write clear Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
