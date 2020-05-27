@@ -12,8 +12,13 @@ team collaboration project.
 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/
 )
 ## Go
+[Effective Go]([https://golang.org/doc/effective_go.html])
 
 ## Scala for Spark
+[Scala Style Guide](https://docs.scala-lang.org/style/)
+
+## Clojure 
+[Clojure Style Guide](https://guide.clojure.style/)
 
 ## Javascript/Typescript
 
