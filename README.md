@@ -11,6 +11,14 @@ team collaboration project.
 ## Python
 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/
 )
+
+## Django
+### For reusable app :App naming conventions
+* An app's name should follow Pep 8 Guidelines, namely it should be short, 
+all-lowercase and not include numbers, dashes, periods, spaces, or special
+characters. It also, in general, should be the plural of an app's main 
+model, so our posts app would have a main model called Post.
+* Reference by [Django Best Practices: Projects vs Apps](https://learndjango.com/tutorials/django-best-practices-projects-vs-apps)
 ## Go
 [Effective Go]([https://golang.org/doc/effective_go.html])
 
