@@ -13,6 +13,11 @@ team collaboration project.
 )
 
 ## Django
+## Read concise pydoc 
+`pydoc django`
+## Read and generate detail documentation
+* Using [Sphinx](https://www.sphinx-doc.org/)
+
 ### [Model Style](https://learndjango.com/tutorials/django-best-practices-models)
 * There is an official Django coding style which provides a recommended 
 ordering for models:
