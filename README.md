@@ -13,7 +13,8 @@ team collaboration project.
 )
 
 ## Django
-## Read concise pydoc 
+### [General Coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/#model-style)
+### Read concise pydoc 
 `pydoc django`
 ## Read and generate detail documentation
 * Using [Sphinx](https://www.sphinx-doc.org/)
