@@ -13,6 +13,18 @@ team collaboration project.
 )
 
 ## Django
+### [Model Style](https://learndjango.com/tutorials/django-best-practices-models)
+* There is an official Django coding style which provides a recommended 
+ordering for models:
+* choices
+* database fields
+* custom manager attributes
+* Meta
+* def __str__()
+* def save()
+* def get_absolute_url()
+* custom methods
+
 ### For reusable app :App naming conventions
 * An app's name should follow Pep 8 Guidelines, namely it should be short, 
 all-lowercase and not include numbers, dashes, periods, spaces, or special
