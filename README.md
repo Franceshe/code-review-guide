@@ -47,6 +47,8 @@ model, so our posts app would have a main model called Post.
 [Clojure Style Guide](https://guide.clojure.style/)
 
 ## Javascript/Typescript
+### Javascript style for Django
+* [Javascript coding style for Django](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/)
 
 ## Git
 * [Pro Git Book by by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
