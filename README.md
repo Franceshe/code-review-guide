@@ -12,6 +12,14 @@ team collaboration project.
 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/
 )
 
+### Profiling python
+* [Python Call Graph:  Python module that creates call graph visualizations for Python applications]
+(https://github.com/gak/pycallgraph/blob/master/docs/index.rst)
+* [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
+* [py-spy: Sampling profiler for Python programs](https://github.com/benfred/py-spy)
+
+
+
 ## Django
 ### [General Coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/#model-style)
 ### Read concise pydoc 
