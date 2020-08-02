@@ -11,7 +11,7 @@ team collaboration project.
 ## Python
 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/
 )
-
+* Descriptive: Naming Styles: eg single_leading_underscore: weak "internal use" indicator.
 ### Profiling python
 * [Python Call Graph:  Python module that creates call graph visualizations for Python applications]
 (https://github.com/gak/pycallgraph/blob/master/docs/index.rst)
