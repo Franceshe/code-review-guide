@@ -45,14 +45,15 @@ all-lowercase and not include numbers, dashes, periods, spaces, or special
 characters. It also, in general, should be the plural of an app's main 
 model, so our posts app would have a main model called Post.
 * Reference by [Django Best Practices: Projects vs Apps](https://learndjango.com/tutorials/django-best-practices-projects-vs-apps)
+
 ## Go
 [Effective Go]([https://golang.org/doc/effective_go.html])
 
 ## Scala for Spark
-[Scala Style Guide](https://docs.scala-lang.org/style/)
+* [Scala Style Guide](https://docs.scala-lang.org/style/)
 
 ## Clojure 
-[Clojure Style Guide](https://guide.clojure.style/)
+* [Clojure Style Guide](https://guide.clojure.style/)
 
 ## Javascript/Typescript
 ### Javascript style for Django
@@ -64,4 +65,4 @@ model, so our posts app would have a main model called Post.
 
 ## How to ask question in a smart way
 Save you and your teammates time:
-*[How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
+* [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
